@@ -1,7 +1,7 @@
 # 细说多线程之Thread VS Runnable
 
 学习地址:https://www.imooc.com/learn/312    
-代码地址：   
+代码地址：https://github.com/xxg3053/ThreadAndRunnableTopic     
 
 ## 回顾线程创建的两种方式
 ![image](http://7xky7l.com1.z0.glb.clouddn.com/WechatIMG3.jpeg)
